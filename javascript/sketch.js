@@ -5,7 +5,7 @@ let data = {};
 let words =[]
 let wordData;
 function preload() {
-  data = loadJSON('../json/WebScraping.json')
+  data = loadJSON('./json/WebScraping.json')
 }
 
 
